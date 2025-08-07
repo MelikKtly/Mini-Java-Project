@@ -10,3 +10,5 @@
 **AsalMethod**:Finding prime numbers using the method.
 
 **FonksiyonHesapMak**:Calculator using methods.
+
+**CalisanlarProgrami**:A program I created to learn about inheritance structure.
