@@ -12,3 +12,7 @@
 **FonksiyonHesapMak**:Calculator by using methods.
 
 **CalisanlarProgrami**:A program I created to learn about inheritance structure.
+
+**Composition**:A project to learn Composition.
+
+**BeybladeProgram**:A project to learn Polymorphism.
