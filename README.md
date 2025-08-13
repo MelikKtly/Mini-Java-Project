@@ -19,4 +19,4 @@
 
 **HafizaOyunu**:Card guessing game using arrays.
 
-**SarkiciProjesi**:Program for adding, deleting, updating, and searching singers to the list using arrays.
+**SarkiciProjesi**:Program for adding, deleting, updating, and searching singers to the list using arraylist.
