@@ -20,3 +20,5 @@
 **HafizaOyunu**:Card guessing game using arrays.
 
 **SarkiciProjesi**:Program for adding, deleting, updating, and searching singers to the list using arraylist.
+
+**LinkedList**:Travel cities program using Linkedlist and iteration.
