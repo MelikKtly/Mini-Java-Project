@@ -26,3 +26,5 @@
 **YurtDisiCisikProgrami**:Passport control application using interface.
 
 **GeometrikSekilHesap**:Calculating geometric areas using abstract.
+
+**MatematikVeFizikProblemleri**:Solving math and physics problems to learn class (static,local...)
