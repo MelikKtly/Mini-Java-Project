@@ -27,4 +27,6 @@
 
 **GeometrikSekilHesap**:Calculating geometric areas using abstract.
 
-**MatematikVeFizikProblemleri**:Solving math and physics problems to learn class (static,local...)
+**MatematikVeFizikProblemleri**:Solving math and physics problems to learn class (static,local...).
+
+**SinavBirincisi**:Program to find the top student in an exam using a generic method.
